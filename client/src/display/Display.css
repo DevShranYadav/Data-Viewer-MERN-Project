@@ -1,0 +1,9 @@
+.flex-container{
+  display:'flex';
+  margin:35;
+  border-color:'red';
+  height:200;
+  width:1400;
+  align-items:'center';
+  text-align:'center';
+}

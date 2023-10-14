@@ -1,9 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import DisplayData from './display/DisplayData';
 
 function App() {
   return (
-    <div><h1>Hello dev</h1></div>
+    <>
+      {/* <----------- React Component where the User interface  interact with data-------->  */}
+      <DisplayData />
+    </>
   );
 }
 
